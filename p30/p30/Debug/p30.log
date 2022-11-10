@@ -1,0 +1,5 @@
+﻿  p30.c
+c:\users\吳育綸\desktop\hw-4\p30\p30\p30.c(12): warning C4013: 'inverse' 未定義; 假設 extern 傳回整數
+c:\users\吳育綸\desktop\hw-4\p30\p30\p30.c(19): warning C4098: 'main': 'void' 函式正在傳回值
+c:\users\吳育綸\desktop\hw-4\p30\p30\p30.c(28): warning C4716: 'inverse': 必須傳回值
+  p30.vcxproj -> C:\Users\吳育綸\Desktop\hw-4\p30\Debug\p30.exe
